@@ -13,7 +13,7 @@
   margin-top: 100px;
 }
 
-.navbar {
+#navbar {
   display: flex;
   justify-content: center;
   background-color: white;
@@ -23,13 +23,13 @@
 
 }
 
-.navbar img {
+#navbar img {
   width: 80px;
   height: 50px;
 }
 
 .sect.one {
-  background-color: #f5eee6;
+  background-color: #f9f8ed;
   height: 300px;
   display: flex;
   align-items: center;
